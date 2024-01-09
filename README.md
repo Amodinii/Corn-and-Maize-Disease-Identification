@@ -10,4 +10,6 @@
 </l>
 
 <h3>OVERVIEW OF THE MODEL :</h3>
-<p>The model has been developed using CNN (Convolutional Neural Network) for accurate identification of disease in corn and maize plants. A FastAPI has been created for seamless integration with external applications.The model achieves an accuracy of 93%.</p>
+<p>The model has been developed using <em>CNN (Convolutional Neural Network)</em> for accurate identification of disease in corn and maize plants.</p>
+<p>A <em>FastAPI</em> has been created for seamless integration with external applications.</p>
+<p>The model achieves an accuracy of <em>93%</em>.</p>
